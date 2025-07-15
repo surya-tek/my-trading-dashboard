@@ -1,0 +1,4 @@
+streamlit
+pymongo
+certifi
+pandas
